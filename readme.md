@@ -21,6 +21,9 @@ Welcome to the Movie Data Scraper and Sentiment Analysis project! This project a
 - `movie.csv`: Initial movie list from IMDB.
 - `movie_info.csv`: Detailed movie information from OMDB.
 - `sentiments_movies.csv`: Sentiment analysis results merged with movie data.
+- `Comment_1_Clean_Sentiment.csv`: Cleaned sentiment data from the first set of comments.
+- `Comment_2_Clean_Sentiment.csv`: Cleaned sentiment data from the second set of comments.
+- `Comment_3_Clean_Sentiment.csv`: Cleaned sentiment data from the second set of comments.
 - `final_merged.csv`: Final cleaned and merged dataset.
 
 ## 📈 Results
