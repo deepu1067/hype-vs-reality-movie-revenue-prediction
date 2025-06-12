@@ -24,7 +24,7 @@ Welcome to the Movie Data Scraper and Sentiment Analysis project! This project a
 -   `Comment_1_Clean_Sentiment.csv`: Cleaned sentiment data from the first set of comments.
 -   `Comment_2_Clean_Sentiment.csv`: Cleaned sentiment data from the second set of comments.
 -   `Comment_3_Clean_Sentiment.csv`: Cleaned sentiment data from the second set of comments.
--   `final_merged.csv`: Final cleaned and merged dataset.
+-   `sentiments_movies.csv`: Final cleaned and merged dataset.
 
 ## 📈 Results
 
